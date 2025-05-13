@@ -9,6 +9,10 @@ return {
             ignored = true,
             auto_close = true,
           },
+          files = {
+            hidden = true,
+            ignored = true,
+          },
         },
       },
     },
